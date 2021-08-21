@@ -1,3 +1,3 @@
 ## 0.0.1
 
-* TODO: Describe initial release.
+* this package help you to give glassomorphic+ neomrphic both effects to a container (at a time).
